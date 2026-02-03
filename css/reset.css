@@ -7,3 +7,14 @@
 body{
     background-color: var(--cor-fundo);
 }
+
+.container li{
+    color: var(--cor-texto);
+    font-family: var(--fonte-secundaria);
+}
+
+.title{
+    font-family: var(--fonte-principal);
+    font-weight: 300;
+    color: var(--cor-title);
+}
